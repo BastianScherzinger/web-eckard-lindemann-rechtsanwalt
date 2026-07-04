@@ -15,23 +15,27 @@
   "headline": "Eckard Lindemann Rechtsanwalt Berlin",
   "subline": "Schnelle und zuverlässige juristische Unterstützung in Spandau.",
   "ueber_titel": "Vertrauensvolle rechtliche Beratung für Sie",
-  "ueber_text": "Eckard Lindemann Rechtsanwalt bietet Ihnen persönliche und kompetente Anwaltsdienste. Wir kümmern uns um Ihre juristischen Belange in Spandau mit Engagement und Sachverstand.",
+  "ueber_text": "Eckard Lindemann Rechtsanwalt hat seit vielen Jahren sein Büro im Zentrum von Spandau. Wir bieten unseren Kunden persönliche Beratung und effiziente Lösungen für ihre rechtlichen Fragen. Unsere Werte sind Vertrauen, Kompetenz und Fairness.",
   "leistungen": [
     {
       "titel": "Vertragsrecht",
-      "text": "Schnelle Erstellung und Überprüfung von Verträgen."
+      "text": "Schnelle und präzise Rechtsschutz im Bereich Verträge."
     },
     {
       "titel": "Familienrecht",
-      "text": "Beratung bei Scheidungs- und Kindesrechtsfragen."
+      "text": "Persönliche Beratung bei Scheidungs- und Unterhaltsstreitigkeiten."
     },
     {
       "titel": "Immobilienrecht",
-      "text": "Unterstützung bei Immobilienkauf, -verkauf und Mietgeschäften."
+      "text": "Effektive Unterstützung bei allen Aspekten von Immobilienangelegenheiten."
     },
     {
       "titel": "Verwaltungsrecht",
-      "text": "Hilfe bei Anträgen und Klagen an Behörden."
+      "text": "Sachkundige Rechtsdienste für Verwaltungssachen und Klagen."
+    },
+    {
+      "titel": "Schadensersatzansprüche",
+      "text": "Effektive Darstellung Ihrer Schadensersatzforderungen in Gericht."
     }
   ],
   "cta_text": "Jetzt Termin vereinbaren",
@@ -77,5 +81,29 @@
   "makeover_stages": [
     "lokal"
   ],
-  "makeover_version": 7
+  "makeover_version": 7,
+  "faq": [
+    {
+      "frage": "Wie erreiche ich Sie?",
+      "antwort": "Bitte kontaktieren Sie uns telefonisch oder per E-Mail."
+    },
+    {
+      "frage": "Bieten Sie Anfahrtshilfen an?",
+      "antwort": "Wir liegen zentral in Spandau, nahezu jeder Verkehrsmittel ist gut erreichbar."
+    },
+    {
+      "frage": "Welche Gebühren gelten für Ihre Dienstleistungen?",
+      "antwort": "Die Kosten hängen von der Art und Komplexität des Rechtsproblems ab."
+    },
+    {
+      "frage": "Bieten Sie Beratung in mehreren Sprachen an?",
+      "antwort": "Wir bieten Unterstützung in Deutsch, Englisch und Französisch."
+    }
+  ],
+  "trust": [
+    "Persönliche Beratung",
+    "Langjährige Erfahrung im Spandauer Raum",
+    "Individuelle Lösungen für jedes Problem"
+  ],
+  "content_enriched": true
 }
