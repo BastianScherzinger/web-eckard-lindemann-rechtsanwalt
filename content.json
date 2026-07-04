@@ -73,5 +73,9 @@
   "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Eckard Lindemann Rechtsanwalt (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
   "lat": 52.5371051,
   "lng": 13.202783799999999,
-  "fotos_graded": true
+  "fotos_graded": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
